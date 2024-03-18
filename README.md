@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohammad Ehsan Aryan😃</h1>
 
-- 😄 I’m interested in **Front-end**
-- ⚡ I'm skilled in **JavaScript**, **TypeScript**, **React.js**, **Next.js**, and some other **Front-end development tools**
+- ❤️ I’m interested in **Front-end**
+- 💼 I'm skilled in **JavaScript**, **TypeScript**, **React.js**, **Next.js**, and some other **Front-end development tools**
 - 👯 I’m looking to collaborate on **React.js** and **Next.js** Projects
   
 <h3 align="center">💬 Connect with me:</h3>
