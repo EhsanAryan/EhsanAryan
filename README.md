@@ -6,8 +6,8 @@
   
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/ehsan-aryan-b32183223"><img  width="50px" height="50px" alt="My LiknedIn!" src="./assets/linkedin-icon.png"/></a>
-<a href="https://instagram.com/itsehs4n"><img  width="50px" height="50px" alt="My Instagram!" src="./assets/instagram-icon.png"/></a>
+<a href="https://www.linkedin.com/in/ehsan-aryan-b32183223" style="margin-right: 30px"><img width="50px" height="50px" alt="My LiknedIn!" src="./assets/linkedin-icon.png"/></a>
+<a href="https://instagram.com/itsehs4n"><img width="50px" height="50px" alt="My Instagram!" src="./assets/instagram-icon.png"/></a>
 </div>
 
 
