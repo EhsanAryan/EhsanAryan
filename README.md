@@ -6,7 +6,7 @@
   
 <h3 align="center">Connect with me:</h3>
 <div align="center"><a href="https://www.linkedin.com/in/ehsan-aryan-b32183223">LinkedIn</a></div>
-<div align="center"><a href="https://instagram.com/itsehs4n">Instagram</a></div>
+<div align="center"><a href="https://instagram.com/itsehs4n"><img  width="20%" alt="My LiknedIn!" src="./assets/linkedin-icon.png"/></a></div>
 
 
 <!--
