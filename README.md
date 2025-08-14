@@ -10,4 +10,3 @@
 <a href="https://t.me/itsehsan"><img width="50px" height="50px" alt="My Telegram!" src="./assets/telegram-icon.png"/></a>
 <a href="https://instagram.com/itsehs4n"><img width="50px" height="50px" alt="My Instagram!" src="./assets/instagram-icon.png"/></a>
 </div>
-</div>
