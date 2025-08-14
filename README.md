@@ -3,6 +3,7 @@
 - ❤️ I’m interested in **Front-end**
 - 💼 I'm skilled in **JavaScript**, **TypeScript**, **React.js**, **Next.js**, and some other **Front-end development tools**
 - 👯 I’m looking to collaborate on **React.js** and **Next.js** Projects
+You can contact me on [Telegram](https://t.me/itsehsan)
   
 <h3 align="center">💬 Connect with me:</h3>
 <div align="center">
