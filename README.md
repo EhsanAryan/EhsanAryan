@@ -7,7 +7,7 @@
 <p align="center">
   I'm currently working on Nemanegar 👉
   <a href="https://eitaa.com/nemanegar_app">
-    <img width="10" height="10" src="./assets/nemanegar-logo.png" alt="Nemanegar"/>
+    <img width="20" height="20" src="./assets/nemanegar-logo.png" alt="Nemanegar"/>
   </a>
 </p>
 
