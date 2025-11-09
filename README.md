@@ -4,8 +4,13 @@
 - 💼 I'm skilled in **JavaScript**, **TypeScript**, **React.js**, **Next.js**, and some other **Front-end development tools**
 - 👯 I’m looking to collaborate on **React.js** and **Next.js** Projects
 
-- I'm currently working on Nemanegar 👉
-<a href="https://eitaa.com/nemanegar_app"><img width="50px" height="50px" alt="My LiknedIn!" src="./assets/nemanegar-logo.png"/></a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span>I'm currently working on Nemanegar 👉</span>
+  <a href="https://eitaa.com/nemanegar_app">
+    <img width="50px" height="50px" alt="Nemanegar" src="./assets/nemanegar-logo.png"/>
+  </a>
+</div>
+
 
 <h3 align="center">💬 Contact me on:</h3>
 <div align="center">
